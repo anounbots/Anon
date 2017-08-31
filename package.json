@@ -1,0 +1,26 @@
+{
+  "name": "anon-discord",
+  "version": "0.0.2",
+  "description": "A discord.js framework.",
+  "main": "./src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anounbots/Anon.git"
+  },
+  "author": "Dr. Taiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anounbots/Anon/issues"
+  },
+  "homepage": "https://github.com/anounbots/Anon#readme"
+}
