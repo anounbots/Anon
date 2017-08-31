@@ -1,3 +1,3 @@
 module.exports = {
-    Client: require('./main/Client')
+    AnonClient: require('./main/AnonClient')
 }
